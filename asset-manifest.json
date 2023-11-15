@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/ra-16-react-composition-of-components/static/css/main.73e9eb5a.css",
+    "main.js": "/ra-16-react-composition-of-components/static/js/main.52e8d96e.js",
+    "static/js/787.62eb481b.chunk.js": "/ra-16-react-composition-of-components/static/js/787.62eb481b.chunk.js",
+    "index.html": "/ra-16-react-composition-of-components/index.html",
+    "main.73e9eb5a.css.map": "/ra-16-react-composition-of-components/static/css/main.73e9eb5a.css.map",
+    "main.52e8d96e.js.map": "/ra-16-react-composition-of-components/static/js/main.52e8d96e.js.map",
+    "787.62eb481b.chunk.js.map": "/ra-16-react-composition-of-components/static/js/787.62eb481b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.73e9eb5a.css",
+    "static/js/main.52e8d96e.js"
+  ]
+}
