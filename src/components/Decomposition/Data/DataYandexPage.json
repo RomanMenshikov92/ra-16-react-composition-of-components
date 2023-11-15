@@ -1,0 +1,107 @@
+{
+  "activeTabsNews": ["Сейчас в СМИ", "в Германии", "Рекомендуем"],
+  "newsNames": [
+    {
+      "icon": "https://avatars.dzeninfra.ru/get-ynews-logo/135513/1002-1544074003449-square/logo-square",
+      "name": "Путин упростил получение автомобильных номеров",
+      "link": "https://ria.ru/20190730/1557023734.html"
+    },
+    {
+      "icon": "https://avatars.dzeninfra.ru/get-ynews-logo/135513/1002-1544074003449-square/logo-square",
+      "name": "В команде Зеленского раскрыли план реформ на Украине",
+      "link": "https://ria.ru/20190731/1557026152.html"
+    },
+    {
+      "icon": "https://avatars.dzeninfra.ru/get-ynews-logo/26056/1116-1478692904205-square/logo-square",
+      "name": "«Турпомощь» прокомментировала гибель десятков россиян в Анталье",
+      "link": "https://rg.ru/2019/07/30/turpomoshch-prokommentirovala-gibel-desiatkov-rossiian-v-antale.html"
+    },
+    {
+      "icon": "https://avatars.dzeninfra.ru/get-ynews-logo/271828/1048-1697109461569-square/logo-square",
+      "name": "Суд закрыл дело Демпартии США против России",
+      "link": "https://www.kommersant.ru/doc/4047121"
+    },
+    {
+      "icon": "https://avatars.dzeninfra.ru/get-ynews-logo/41096/1040-1640775230584-square/logo-square",
+      "name": "На Украине призвали создать ракеты для удара по Москве",
+      "link": "https://www.gazeta.ru/army/news/2019/07/30/13279615.shtml"
+    }
+  ],
+  "currencyRates": [
+    {
+      "currency": "USD MOEX",
+      "dynamics": "+0,09",
+      "rate": "63,52"
+    },
+    {
+      "currency": "EUR MOEX",
+      "dynamics": "+0,14",
+      "rate": "70,86"
+    },
+    {
+      "currency": "Нефть",
+      "dynamics": "+1.63%",
+      "rate": "64.90"
+    }
+  ],
+  "categoriesSearch": ["Видео", "Картинки", "Новости", "Карты", "Маркет", "Переводчик", "Эфир"],
+  "weather": [
+    {
+      "temperatureCurrent": "+17",
+      "isPrecipitationSrc": "https://yandex-pogoda.static-storage.net/Z16nt1502/82c886LQ0/bZ4GlQkVqXD_8SBmm5SqDsX9i0quBxuk-dR8gSG3i2wADryMGr7jpyvobrTEELNO7xN4N_wIcKlKYq2v-kkB9LVS7lmp_el5_9kgVp-A6vZo3afrwmLjDNGskAh5a-OQTGqMlOZ769OfLONA0KByGusHHHsINUSpcp71B66Z6TjtLpIJrQkFlVftnGMLKBpCDeVbkxr6w7y5DAh0GbMjgFi69KDi_2_z4_AnpKjgzt5z_zwXFJXUJVrSjRdm7ZUMQZ7GAaUhTVF7ZQAzC4jaAvERy6sq4jdc-axY8KmPL-ScihxIYj_P5wdAY1jU5HaW4_Pcf-jlmOH2xnUPTv1RHIEK5mkF-U3NE5lQZ4_A2lYNDffHLvZDPL387HzJL6MccMI8nEpLQ7s_dAssEFROqudfcIdcicxtVsbBX65ZPVA9zhIBaeWhUReZYGMH_Joi2cG3v7L6EwzFuCzE-bOz5PwuhEiWfwsH55wPRMzAPsqX91RTnF1kvYpacRNy2UWUtQZyBa3dWR3v_Zwvd0wCJhHtp8dKChsMsXBIYMG_-2CscpRUgmsTr6MQS-hgbCZOjwNUi3C9BOl2conjulUtnNVCQhGJcT1B563UH--YCu7ZFfsnsoJvRDV0hHD526e83ILkSKq7w3OLeGeUlFDGJhuPkBNwGZzNDmb1_z7tvRwhPmahHc2dPaeBhKcPjP7OAY1DJ6KWeyRJ_PwUpX8DYNCuOMTi92eDtxwHLOhovs7n87iPuD2ordbawZO-AcGgvRaWpZGRId3XGRCD89xihlkBI8uCir8MWVzQJKUbB-jQFow48utrO2dAB2zYgI6uw4_ci-jNlCXS1pHrIlnVADXeftGBgblh20Fwh3dUngIlAS8zjhZPtKXsyNRF8-t0vDaQkHKzx-djiPcoDJQSJpcjnM9cPXTtLh4Bxx6dgRSZFq79SQUt0WeF-C9_gCaCpeWbF0oOuzg53EwEdY_vZPhCcCDi928fnwBfuJjsatpHgzRnZLnQdUb2NQ9aidFIsTZ2jaGZqa2jwYAne8QSpkUJX0_Wav8UpfBUwK0Lf7ykZjScmiu3px90W9C08J5af9ugL_CtlMUamrEPtqUZxBWCCg1twdkl190MJ4eUho6N2bvD0g6zuMX42CxRE48w_O7kxCaLN1d7yJ-wnETiwmvHkHMMmXwxLtIBY6blSbQlgg6NMUGVtYvNiJO3iHZSBU3HK8Iql-DF9ITgKfuzDDTulLTmw-fzA8Bv4Azc8poTiywvbMWUMXa6BeceYU2UvcKKbaFlRd1zIYifQwSmQr091x9ydq-I_WxAyEWD44j8dgQ0AtufH6e031RUCE72Tw-wr1RZ1I2Wnjlrwi1NOEEKdg3dzRlpU1W4Y7ssfgYFQTcHDrIXQKnI-AyZo5tgXIYc1GI7axeTNEtg4KiWZkMDPG_sydB9hq6BX04tVegpMkZtGenZXcN9HJcvDA46pdkP457-TwiVAHh0KfubHJziKKg2W7uj8xSPSGBctsZjjyz_OMUA2fbyxd-6gc3IjYIGpd2FpU3fFbhX61RuRq3hWyOqRoOsebjY4A2DZ8Q0enCILt_rVw-kUxDEdG6yVxtw73hl-PnGRrGT3uWNuMHCbm2B4YWdJ1Wo12sE2sZdSTfjCr4vCLVgwIClj2vAyEowhIb_m7v_ECcgSNwWGl_jFItc7VwBgup9h2aFEWCtthLZyekxSe9FiPv_cCZaLWUj115mexg1PGjY1d97TExmABzm_zcjm7z_tKDMntLPf7RfBD1Y6cqaGZs-Db0MSQYqyWX9WXlrVSBfu8A2DhGBl6-uCpM8_fjA7F2vs4AsbpzUGv-X9xcAlzQgUGZWN0PQl9TV9C028gV7ru1ZzEECxmUFGUnZHwls-_8Akg5FQb_L8vZPRKFYFHjJaxOMjBKooHbPR1crtAts4AAG7ocvQO_0zcy5jsLBi2pV7ai1LsJlNX1RceuZaOuDoGLifT2b68JKc1CpOASoSavr7DQujNySi0e7_ySDvFhE-m6fc3zn9KnEcRoW4RvixRHMDdparaUN7TXLaVCrCxSWPkFhTwtCJkMwFeD4gF0z0wggwrCAjsuDYwOob0w0mGpW51-U6xRtRL2qejXjblnRuEk24s3FVWVhg8WwryvYekI5QaubvkaXSEW4nAShl9d4yAognBLTc6sbZJeYYOwaMrPzcM-EEfwpTtoBb3IZlcAtttaFIVHpMc-dfG_nUAbq9bWbm1KGr7y9zEykpQOj5Fz-ALhyV5f_TxBTuOgsds7zayzDLJlkBco2lYv6hc3IjdbCfa3llbGHoYC_42yuKo1th9OWFjsgbdhkeA2PX0TItogECifLoxv8U0w48Jpuw1tUB3DF_PmG5uX_NklNgC2GTiEBkRm1Cx2Iv2-UekqRFdvTGmaziKW0LBQtL6_QPEr8qOpjSxNLHEtABNyGwgdr_PsUgUBh0nL9z6Z5tbjpTpqtgQ3FGU9ZGAv7bBoaVYUbE5aSBzxlQORELQNz-IhuZKySo_8Te6SrICBYGrJfD1TbYM1oeUpG7bPaARFIgR6GCb3txSHvDWSPT5Q6arFRRztCwnO42byMDPlbCzwcMqRICsOf6_d426zs8Jbix98olxSRLFVCxjWD8oXNVO1GQi0tITn54wWsq5fEmpLxWduLGm7znOHYiHRR94tAJAocDH7jbws3OIOAHMT24nvjFFegXQxF-rJ1k2YlsaRZPs7lvWm1MduRfKsjlGYeNW0Xw3Zuq4Q1xPhUwd8LEIyStJQ6h3cHA7yD4MjoYkYH7-AT5LnAMU4qSd-iqTHclR7yoaVlzV0PVaS_a2DeUrl1P09GlpewQST8ANFTM0BQNqBUHrNzK-dElzg4IGLE",
+      "isPrecipitationAlt": "rain",
+      "temperatureMorning": "+17",
+      "temperatureAfternoon": "+20"
+    }
+  ],
+  "visited": [
+    {
+      "term": "Недвижимость -",
+      "definition": " о сталинках"
+    },
+    {
+      "term": "Маркет -",
+      "definition": " люстры и светильники"
+    },
+    {
+      "term": "Авто.ру -",
+      "definition": " привод 4х4 до 500 000"
+    }
+  ],
+  "mapItems": [
+    {
+      "content": "Расписания"
+    }
+  ],
+  "ether": [
+    {
+      "name": "Управление как искусство",
+      "TVСhannel": "Успех"
+    },
+    {
+      "name": "Ночь. Мир в это время",
+      "TVСhannel": "earthTV"
+    },
+    {
+      "name": "Андрей Возн...",
+      "TVСhannel": "Совершенно секретно"
+    }
+  ],
+  "TVProgram": [
+    {
+      "time": "02:00",
+      "name": "ТНТ.best",
+      "TVСhannel": "ТНТ International"
+    },
+    {
+      "time": "02:15",
+      "name": "Джинглики",
+      "TVСhannel": "Карусель INT"
+    },
+    {
+      "time": "02:25",
+      "name": "Наедине",
+      "TVСhannel": "Первый"
+    }
+  ]
+}

@@ -1,0 +1,326 @@
+.yandex__wrapper {
+  max-width: 920px;
+  width: 100%;
+  margin: 0 auto;
+}
+.yandex__header {
+  display: flex;
+  justify-content: space-between;
+}
+.yandex__header-right {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  margin-left: 70px;
+}
+.yandex__post-img-container {
+  width: 100px;
+}
+.yandex__post-img {
+  border-radius: 100px;
+}
+.yandex__post-title {
+  font-size: 18px;
+  margin-bottom: 0;
+  margin-top: 10px;
+}
+.yandex__post-link {
+  font-size: 20px;
+  color: #0054b9;
+}
+.yandex__post-description {
+  margin-bottom: 0;
+  margin-top: 10px;
+}
+.yandex__top-nav,
+.yandex__activenews-list {
+  display: flex;
+  align-items: center;
+  padding: 5px 0;
+}
+.yandex__activenews-list {
+  gap: 12px;
+}
+.yandex__activenews-list {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 12px;
+  margin-right: 10px;
+}
+.yandex__activenews-link {
+  color: #6da2e1;
+  font-weight: 700;
+  font-size: 18px;
+}
+.yandex__activenews-item.active .yandex__activenews-link {
+  color: #0054b9;
+}
+.yandex__current-date {
+  color: #90919d;
+  font-size: 13px;
+}
+.yandex__news-list {
+  display: flex;
+  flex-direction: column;
+  gap: 5px;
+}
+.yandex__news-link {
+  position: relative;
+  display: flex;
+  align-items: center;
+}
+.yandex__news-icon {
+  position: absolute;
+  left: -20px;
+  width: 16px;
+  height: 16px;
+  flex-shrink: 0;
+  margin: 2px 12px 0 0;
+  border-radius: 3px;
+  background-repeat: no-repeat;
+  background-position: 50%;
+  background-size: cover;
+}
+.yandex__exchangerates-wrapper {
+  display: flex;
+  align-items: center;
+  gap: 15px;
+  margin-top: 10px;
+}
+.yandex__exchangerates-list {
+  display: flex;
+  gap: 15px;
+}
+.yandex__exchangerates-currency {
+  color: #000;
+  text-transform: uppercase;
+}
+.yandex__exchangerates-rate {
+  margin-left: 6px;
+}
+.yandex__exchangerates-dynamics {
+  color: #90919d;
+  margin-left: 6px;
+}
+.yandex__exchangerates-ellipsis {
+  display: inline-flex;
+}
+.yandex__exchangerates-ellipsis-link {
+  margin-bottom: 10px;
+  font-weight: 900;
+  letter-spacing: 2.5px;
+  color: #90919d;
+}
+.yandex__main {
+  margin-top: 30px;
+}
+.yandex__main-top {
+  display: flex;
+  align-items: center;
+}
+.yandex__logo-container {
+  position: absolute;
+  left: 0;
+  padding-bottom: 5px;
+  padding-top: 5px;
+}
+.yandex__logo-img {
+  width: 200px;
+  min-height: auto;
+}
+.yandex__search {
+  width: 90%;
+}
+.yandex__search-list {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 18px;
+}
+.yandex__search-link {
+  color: #0054b9;
+  font-weight: 400;
+  font-size: 19px;
+}
+.yandex__search-bar {
+  margin-top: 7px;
+  display: flex;
+}
+.yandex__search-input {
+  border: 2px solid #fc0;
+  padding: 5px;
+  width: 100%;
+  background-image: url("https://www.svgrepo.com/show/379478/keyboard.svg");
+  background-position: 98%;
+  background-repeat: no-repeat;
+  background-size: 30px 30px;
+  transition: all 0.2s;
+  text-indent: 20px;
+}
+.yandex__search-btn {
+  background-color: #fc0;
+  border: none;
+  -webkit-clip-path: polygon(90% 0, 100% 50%, 100% 50%, 90% 100%, 0 100%, 0 50%, 0 0);
+  clip-path: polygon(90% 0, 100% 50%, 100% 50%, 90% 100%, 0 100%, 0 50%, 0 0);
+  cursor: pointer;
+  padding: 5px 20px 7px 15px;
+}
+.yandex__search-example {
+  margin-bottom: 0;
+  margin-top: 5px;
+  font-size: 13.5px;
+}
+.yandex__search-example-text {
+  color: #90919d;
+}
+.yandex__banner-container {
+  margin-top: 15px;
+  width: 81%;
+}
+.yandex__banner-img {
+  display: block;
+  height: 120px;
+  width: 100%;
+  object-fit: cover;
+  object-position: 0% 37%;
+}
+
+.yandex__footer {
+  display: flex;
+}
+
+.yandex__widget-column {
+  flex: 0 0 auto;
+  width: 33.3%;
+}
+
+.yandex__widget-weather,
+.yandex__widget-map,
+.yandex__widget-ether,
+.yandex__widget-tvprograms,
+.yandex__widget-visited {
+  margin-top: 15px;
+  padding: 10px;
+  /* flex: 0 0 auto;
+  width: 33.3%; */
+}
+
+.yandex__widget-weather-title,
+.yandex__widget-map-title,
+.yandex__widget-ether-title,
+.yandex__widget-tvprograms-title,
+.yandex__widget-visited-title {
+  color: #0054b9;
+  font-weight: 500;
+  font-size: 20px;
+  margin-bottom: 5px;
+  margin-top: 0;
+}
+
+.yandex__widget-visited-list,
+.yandex__widget-tvprograms-list,
+.yandex__widget-ether-list,
+.yandex__widget-map-list {
+  display: flex;
+  flex-direction: column;
+  gap: 7px;
+}
+
+.yandex__widget-visited-link,
+.yandex__widget-tvprograms-link,
+.yandex__widget-ether-link,
+.yandex__widget-map-link {
+  font-size: 15px;
+}
+.yandex__widget-tvprograms-link-name {
+  padding-left: 10px;
+  padding-right: 10px;
+}
+.yandex__widget-tvprograms-link-tvchannel {
+  color: #90919d;
+}
+.yandex__widget-tvprograms-link-ether {
+  margin-left: 10px;
+  padding: 5px 10px;
+  border-radius: 5px;
+  -webkit-border-radius: 5px;
+  -moz-border-radius: 5px;
+  -ms-border-radius: 5px;
+  -o-border-radius: 5px;
+  background-color: #7a8cfa;
+  font-size: 14px;
+  font-weight: 400;
+  color: #ffffff;
+}
+.yandex__widget-tvprograms-link-ether-span {
+  vertical-align: text-top;
+}
+.yandex__widget-tvprograms-link-ether-span-right-arrow {
+  position: relative;
+  background-color: gray;
+  margin-right: 10px;
+  cursor: pointer;
+}
+.yandex__widget-tvprograms-link-ether-span-right-arrow::before {
+  position: absolute;
+  display: inline-flex;
+  border: 5px solid transparent;
+  content: "";
+}
+.yandex__widget-tvprograms-link-ether-span-right-arrow::before {
+  top: 6px;
+  left: 0px;
+  border-left: 7px solid white;
+}
+.yandex__widget-ether-link-right-arrow {
+  display: inline-flex;
+  align-self: end;
+  position: relative;
+  width: 16px;
+  height: 16px;
+  background-color: #7a8cfa;
+  border-radius: 50%;
+  margin: 0 5px;
+  cursor: pointer;
+  -webkit-border-radius: 50%;
+  -moz-border-radius: 50%;
+  -ms-border-radius: 50%;
+  -o-border-radius: 50%;
+}
+.yandex__widget-ether-link-right-arrow::before {
+  position: absolute;
+  display: inline-flex;
+  border: 5px solid transparent;
+  content: "";
+}
+.yandex__widget-ether-link-right-arrow::before {
+  top: 4px;
+  left: 6px;
+  border-left: 6px solid #ffffff;
+}
+.yandex__widget-ether-link {
+  display: flex;
+  align-items: center;
+}
+.yandex__widget-ether-link-name {
+  padding-right: 5px;
+}
+.yandex__widget-ether-link-tvchannel {
+  color: #90919d;
+}
+.yandex__widget-weather-current-img {
+  width: 50px;
+  margin-right: 10px;
+}
+.yandex__widget-weather-current-temperature {
+  font-size: 30px;
+  font-weight: 500;
+}
+.yandex__widget-weather-current,
+.yandex__widget-weather-current-temperature-wrapper {
+  display: flex;
+}
+.yandex__widget-weather-current-temperature-wrapper {
+  flex-direction: column;
+  margin-left: 15px;
+  gap: 5px;
+}
